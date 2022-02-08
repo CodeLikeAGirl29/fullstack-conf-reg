@@ -1,5 +1,7 @@
 # Interactive Forms Project
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 For Team Treehouse made by [Lindsey](http://www.lindseyk.dev)
 
 ## Requirements
