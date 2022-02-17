@@ -3,6 +3,7 @@
 ==================================== */
 
 @import url('https://fonts.googleapis.com/css?family=Nunito|Roboto+Mono');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin&display=swap');
 
 * {
   box-sizing: border-box;
@@ -17,7 +18,7 @@ html {
 body,
 input,
 button {
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 }
 
 body {
@@ -41,6 +42,7 @@ h1 {
 	font-size: 2.5em;
 	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.65);
 	margin: 0;
+	font-family: 'Libre Franklin', sans-serif;
 }
 
 p {
@@ -111,7 +113,7 @@ select {
 input, 
 select, 
 option {
-  font-family: 'roboto', sans-serif;
+  font-family: 'Libre Franklin', sans-serif;
   transition: all 0.3s ease-out;
 }
 
