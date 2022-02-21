@@ -2,7 +2,7 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-For Team Treehouse made by [Lindsey](http://www.lindseyk.dev)
+:arrow_right: For Team Treehouse made by [Lindsey](http://www.lindseyk.dev)
 
 In this project, you'll use JavaScript to enhance an interactive registration form for a fictional Full Stack conference.
 
