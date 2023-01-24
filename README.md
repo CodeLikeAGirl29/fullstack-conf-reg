@@ -4,7 +4,7 @@
 
 :arrow_right: For Team Treehouse made by [Lindsey](http://www.lindseyk.dev)
 
-In this project, you'll use JavaScript to enhance an interactive registration form for a fictional ***Full Stack conference****.
+In this project, you'll use JavaScript to enhance an interactive registration form for a fictional ***Full Stack conference***.
 
 Using the supplied HTML and CSS files, you'll add your own JavaScript to make the form more user-friendly by:
 
