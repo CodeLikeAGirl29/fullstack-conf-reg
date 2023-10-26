@@ -4,19 +4,15 @@ nameField.focus();
 
 // Job Role Section Variables
 const otherJobRole = document.getElementById("other-job-role");
-const jobRole = document.getElementById("title");
 // Hide Other Job Role section by default
 otherJobRole.style.display = "none";
 
 function showOrHideOther() {
-	// show element when job role is clicked
-	if (jobRole.value === "other") {
-		otherJobRole.style.display = "inherit";
-	} else {
-		otherJobRole.style.display = "none";
-	}
+  // Show or hide element based on job role value
+  otherJobRole.style.display = jobRole.value === "other" ? "inherit" : "none";
 }
 
+const jobRole = document.getElementById("title");
 // Event handler for job role change
 jobRole.addEventListener("change", showOrHideOther);
 
